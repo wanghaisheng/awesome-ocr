@@ -7,12 +7,12 @@ http://apistore.baidu.com/astore/servicesearch?word=ocr&searchType=null
 都支持图片
 百度自家的 ：基本可以放弃
 化验单识别：也只能提取化验单上三个字段的一个
-* Tesseract-OCR引擎 入门
-http://blog.csdn.net/xiaochunyong/article/details/7193744
-https://github.com/tesseract-ocr/tesseract
-* ABBYY
-* IRIS
-* OCR引擎Ocropus实战指南
+* Tesseract-OCR引擎 入门                     
+http://blog.csdn.net/xiaochunyong/article/details/7193744             
+https://github.com/tesseract-ocr/tesseract             
+* ABBYY         
+* IRIS                 
+* OCR引擎Ocropus实战指南              
 [博文1 Training an Ocropus OCR model ](http://www.danvk.org/2015/01/11/training-an-ocropus-ocr-model.html)          
 [博文2  Extracting text from an image using Ocropus](http://www.danvk.org/2015/01/09/extracting-text-from-an-image-using-ocropus.html)   [博文3 Working with Ground Truth ](https://github.com/tmbdev/ocropy/wiki/Working-with-Ground-Truth)                         
 [博文4 Finding blocks of text in an image using Python, OpenCV and numpy](http://www.danvk.org/2015/01/07/finding-blocks-of-text-in-an-image-using-python-opencv-and-numpy.html)                
