@@ -29,4 +29,7 @@ https://github.com/dmlc/mxnet/issues/1023#issuecomment-167189233
 * https://github.com/edward-zhu/umaru
 An OCR-system based on torch using the technique of LSTM/GRU-RNN, CTC and referred to the works of rnnlib and clstm.
 * https://github.com/naptha/ocracy
-* https://github.com/tmbdev/ocropy
+* https://github.com/tmbdev/ocropy      
+* ['caffe-ocr - OCR with caffe deep learning framework' by pannous ](https://github.com/pannous/caffe-ocr)     
+* [Applying OCR Technology for Receipt Recognition](http://pan.baidu.com/s/1qXQBQiC)        
+* []()
