@@ -21,7 +21,8 @@ https://github.com/tesseract-ocr/tesseract
 [论文1所带库 by Adnan Ul-Hasan](https://github.com/tmbdev/ocropy)              
 [Adnan Ul-Hasan的博士论文](https://github.com/wanghaisheng/awesome-ocr/raw/master/papers/Generic%20Text%20Recognition%20using%20Long%20Short-Term%20Memory%20Networks-PhD_Thesis_Ul-Hasan.pdf)            
 
-* https://github.com/TeluguOCR/banti_telugu_ocr
+* https://github.com/TeluguOCR/banti_telugu_ocr     
+* https://github.com/rakeshvar/chamanti_ocr
 * 学霸君archsubmit上的演讲提到了他们的ocr算法 使用cnn来识别中文 http://pan.baidu.com/s/1eRb5enw
 具体实现方法
 https://github.com/fchollet/keras/issues/383#issuecomment-166850153
