@@ -34,4 +34,4 @@ An OCR-system based on torch using the technique of LSTM/GRU-RNN, CTC and referr
 * https://github.com/tmbdev/ocropy      
 * ['caffe-ocr - OCR with caffe deep learning framework' by pannous ](https://github.com/pannous/caffe-ocr)     
 * [Applying OCR Technology for Receipt Recognition](http://pan.baidu.com/s/1qXQBQiC)        
-* []()
+* [ A implementation of LSTM and CTC to recognize image without splitting ](https://github.com/aaron-xichen/cnn-lstm-ctc)
