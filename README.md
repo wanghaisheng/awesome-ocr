@@ -23,6 +23,7 @@ https://github.com/tesseract-ocr/tesseract
 
 * https://github.com/TeluguOCR/banti_telugu_ocr     
 * https://github.com/rakeshvar/chamanti_ocr
+* [ Recurrent Neural Network and Long Short Term Memory (LSTM) with Connectionist Temporal Classification implemented in Theano. Includes a Toy training example. ](https://github.com/rakeshvar/rnn_ctc )
 * 学霸君archsubmit上的演讲提到了他们的ocr算法 使用cnn来识别中文 http://pan.baidu.com/s/1eRb5enw
 具体实现方法
 https://github.com/fchollet/keras/issues/383#issuecomment-166850153
