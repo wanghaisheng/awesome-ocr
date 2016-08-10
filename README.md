@@ -28,6 +28,8 @@ OcrKing 是一个免费的快速易用的在线云OCR平台，可以将PDF及图
 
 * [Tesseract-OCR](https://github.com/tesseract-ocr/tesseract)           
 
+* [ Ocular is a state-of-the-art historical OCR system. ](https://github.com/tberg12/ocular/) 
+
 * [sfhistory  Making a map of historical SF photos -博文4所带库 ](https://github.com/danvk/sfhistory)                              
 
 * [ocropy-论文1所带库 by Adnan Ul-Hasan](https://github.com/tmbdev/ocropy)              
