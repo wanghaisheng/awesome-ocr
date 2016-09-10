@@ -70,7 +70,10 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 * [ An expandable and scalable OCR pipeline ](https://github.com/OpenPhilology/nidaba)         
 
 * [OpenOCR makes it simple to host your own OCR REST API.](http://www.openocr.net/)          
+
+* [ OCRmyPDF   uses Tesseract for OCR, and relies on its language packs. ](https://github.com/jbarlow83/OCRmyPDF)      
 * 
+
 ## Papers
 
 * [论文1 can we build language-independent ocr using lstm networks by Adnan Ul-Hasan](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjS4uDg1Y3MAhUDn6YKHe-YAqcQFggbMAA&url=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2505394&usg=AFQjCNHvV9kiHl181IaXAUC1zZLkd2LFdg)                  
