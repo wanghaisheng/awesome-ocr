@@ -72,6 +72,7 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 * [OpenOCR makes it simple to host your own OCR REST API.](http://www.openocr.net/)          
 
 * [ OCRmyPDF   uses Tesseract for OCR, and relies on its language packs. ](https://github.com/jbarlow83/OCRmyPDF)      
+* [ 多标签分类,端到端的中文车牌识别基于mxnet, End-to-End Chinese plate recognition base on mxnet](https://github.com/szad670401/end-to-end-for-chinese-plate-recognition)    
 * 
 
 ## Papers
