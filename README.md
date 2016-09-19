@@ -84,7 +84,10 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 
 * [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](http://arxiv.org/pdf/1507.05717v1.pdf)
 
-* [Reading Scene Text in Deep Convolutional Sequences](http://arxiv.org/pdf/1506.04395v2.pdf)            
+* [Reading Scene Text in Deep Convolutional Sequences](http://arxiv.org/pdf/1506.04395v2.pdf)           
+
+* [What You Get Is What You See:A Visual Markup Decompiler](http://arxiv.org/pdf/1609.04938v1.pdf)
+>     Building on recent advances in image caption generation and optical character recognition (OCR), we present a general-purpose, deep learning-based system to decompile an image into presentational markup. While this task is a well-studied problem in OCR, our method takes an inherently different, data-driven approach. Our model does not require any knowledge of the underlying markup language, and is simply trained end-to-end on real-world example data. The model employs a convolutional network for text and layout recognition in tandem with an attention-based neural machine translation system. To train and evaluate the model, we introduce a new dataset of real-world rendered mathematical expressions paired with LaTeX markup, as well as a synthetic dataset of web pages paired with HTML snippets. Experimental results show that the system is surprisingly effective at generating accurate markup for both datasets. While a standard domain-specific LaTeX OCR system achieves around 25% accuracy, our model reproduces the exact rendered image on 75% of examples. 
 
 
 
