@@ -65,7 +65,7 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 ```    
 
 
-* [ Test mxnet with own trained model,用训练好的网络模型进行数字，少量汉字，特殊字符（./等）的识别（总共有210类） ](https://github.com/mittlin/mxnet_test)           
+* [ Test mxnet with own trained model,用训练好的网络模型进行数字，少量汉字，特殊字符（./等）的识别（总共有210类）](https://github.com/mittlin/mxnet_test)           
 
 * [ An expandable and scalable OCR pipeline ](https://github.com/OpenPhilology/nidaba)         
 
@@ -74,7 +74,9 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 * [ OCRmyPDF   uses Tesseract for OCR, and relies on its language packs. ](https://github.com/jbarlow83/OCRmyPDF)      
 * [ 多标签分类,端到端的中文车牌识别基于mxnet, End-to-End Chinese plate recognition base on mxnet](https://github.com/szad670401/end-to-end-for-chinese-plate-recognition)      
 * [中国二代身份证光学识别 ](https://github.com/KevinGong2013/ChineseIDCardOCR)      
-* [ SwiftOCR:Fast and simple OCR library written in Swift ](https://github.com/garnele007/SwiftOCR)
+* [ SwiftOCR:Fast and simple OCR library written in Swift ](https://github.com/garnele007/SwiftOCR)     
+* [Attention-OCR :Visual Attention based OCR ](https://github.com/da03/Attention-OCR)           
+* [ Added support for CTC in both Theano and Tensorflow along with image OCR example. #3436](https://github.com/fchollet/keras/blob/master/examples/image_ocr.py)
 
 ## Papers
 
