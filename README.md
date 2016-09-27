@@ -76,7 +76,8 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 * [中国二代身份证光学识别 ](https://github.com/KevinGong2013/ChineseIDCardOCR)      
 * [ SwiftOCR:Fast and simple OCR library written in Swift ](https://github.com/garnele007/SwiftOCR)     
 * [Attention-OCR :Visual Attention based OCR ](https://github.com/da03/Attention-OCR)           
-* [ Added support for CTC in both Theano and Tensorflow along with image OCR example. #3436](https://github.com/fchollet/keras/blob/master/examples/image_ocr.py)
+* [ Added support for CTC in both Theano and Tensorflow along with image OCR example. #3436](https://github.com/fchollet/keras/blob/master/examples/image_ocr.py) 
+* [EasyPR是一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的车牌识别库。](https://github.com/liuruoze/EasyPR)
 
 ## Papers
 
