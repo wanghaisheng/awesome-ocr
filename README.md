@@ -89,6 +89,7 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 * [ The minimum OCR server by Golang The minimum OCR server by Golang, and a tiny sample application of gosseract.](https://github.com/otiai10/ocrserver)        
 * [ A comparasion among different variant of gradient descent algorithm This script implements and visualizes the performance the following algorithms, based on the MNIST hand-written digit recognition dataset:](https://github.com/mazefeng/sgd-opt)     
 * [ A curated list of resources dedicated to scene text localization and recognition ](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)    
+* [ Convolutional Recurrent Neural Network (CRNN) for image-based sequence recognition. ](https://github.com/bgshih/crnn)   
 
 ## Papers
 
