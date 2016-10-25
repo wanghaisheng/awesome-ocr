@@ -91,6 +91,11 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 * [ A curated list of resources dedicated to scene text localization and recognition ](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)    
 * [ Convolutional Recurrent Neural Network (CRNN) for image-based sequence recognition. ](https://github.com/bgshih/crnn)   
 
+* [ Implementation of the method proposed in the papers " TextProposals: a Text-specific Selective Search Algorithm for Word Spotting in the Wild" and "Object Proposals for Text Extraction in the Wild" (Gomez & Karatzas), 2016 and 2015 respectively. ]( https://github.com/lluisgomez/TextProposals)          
+
+* [ Word Spotting and Recognition with Embedded Attributes http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html ](https://github.com/almazan/watts)          
+
+* ［］
 ## Papers
 
 * [论文1 can we build language-independent ocr using lstm networks by Adnan Ul-Hasan](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjS4uDg1Y3MAhUDn6YKHe-YAqcQFggbMAA&url=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2505394&usg=AFQjCNHvV9kiHl181IaXAUC1zZLkd2LFdg)                  
