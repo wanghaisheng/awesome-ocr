@@ -87,7 +87,9 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 * [Deep Embedded Clustering  for OCR based on caffe](https://github.com/piiswrong/dec)       
 * [ Deep Embedded Clustering  for OCR based on  MXNet](https://github.com/dmlc/mxnet/blob/master/example/dec/dec.py)     
 * [ The minimum OCR server by Golang The minimum OCR server by Golang, and a tiny sample application of gosseract.](https://github.com/otiai10/ocrserver)        
-* [ A comparasion among different variant of gradient descent algorithm This script implements and visualizes the performance the following algorithms, based on the MNIST hand-written digit recognition dataset:](https://github.com/mazefeng/sgd-opt)
+* [ A comparasion among different variant of gradient descent algorithm This script implements and visualizes the performance the following algorithms, based on the MNIST hand-written digit recognition dataset:](https://github.com/mazefeng/sgd-opt)     
+* [ A curated list of resources dedicated to scene text localization and recognition ](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)    
+
 ## Papers
 
 * [论文1 can we build language-independent ocr using lstm networks by Adnan Ul-Hasan](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjS4uDg1Y3MAhUDn6YKHe-YAqcQFggbMAA&url=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2505394&usg=AFQjCNHvV9kiHl181IaXAUC1zZLkd2LFdg)                  
