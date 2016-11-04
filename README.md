@@ -95,7 +95,11 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 
 * [ Word Spotting and Recognition with Embedded Attributes http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html ](https://github.com/almazan/watts)          
 
-* ［ Part of eMOP: Franken+ tool for creating font training for Tesseract OCR engine from page images. ］(https://github.com/Early-Modern-OCR/FrankenPlus)    
+* ［ Part of eMOP: Franken+ tool for creating font training for Tesseract OCR engine from page images. ］(https://github.com/Early-Modern-OCR/FrankenPlus)     
+
+* [NOCR NOCR is an open source C++ software package for text recognition in natural scenes, based on OpenCV. The package consists of a library, console program and GUI program for text recognition.](https://github.com/honzatran/nocr)      
+
+* [An OpenCV based OCR system, base to other projects Uses Histogram of Oriented Gradients (HOG) to extract characters features and Support Vector Machines as a classifier. It serves as basis for other projects that require OCR functionality.]()
 
 ## Papers
 
@@ -132,7 +136,10 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 * [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)      
 * [车牌识别中的不分割字符的端到端(End-to-End)识别](http://m.blog.csdn.net/article/details?id=52174198)         
 * [端到端的OCR：基于CNN的实现](http://blog.xlvector.net/2016-05/mxnet-ocr-cnn/)
-* 
+* [ 腾讯OCR—自动识别技术，探寻文字真实的容颜 ](http://dataunion.org/17291.html)    
+>特征描述的完整过程 http://dataunion.org/wp-content/uploads/2015/05/640.webp_2.jpg
+
+* [验证码识别](https://github.com/100steps/Blogs/issues/43)     
 
 ## Presentations
 
