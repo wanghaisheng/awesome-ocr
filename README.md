@@ -99,8 +99,11 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 
 * [NOCR NOCR is an open source C++ software package for text recognition in natural scenes, based on OpenCV. The package consists of a library, console program and GUI program for text recognition.](https://github.com/honzatran/nocr)      
 
-* [An OpenCV based OCR system, base to other projects Uses Histogram of Oriented Gradients (HOG) to extract characters features and Support Vector Machines as a classifier. It serves as basis for other projects that require OCR functionality.]()
+* [An OpenCV based OCR system, base to other projects Uses Histogram of Oriented Gradients (HOG) to extract characters features and Support Vector Machines as a classifier. It serves as basis for other projects that require OCR functionality.](https://github.com/eduardohenriquearnold/OCR/)    
 
+* [Recognize bib numbers from racing photos]()
+
+* [Automatic License Plate Recognition library http://www.openalpr.com](https://github.com/openalpr/openalpr)     
 ## Papers
 
 * [论文1 can we build language-independent ocr using lstm networks by Adnan Ul-Hasan](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjS4uDg1Y3MAhUDn6YKHe-YAqcQFggbMAA&url=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2505394&usg=AFQjCNHvV9kiHl181IaXAUC1zZLkd2LFdg)                  
