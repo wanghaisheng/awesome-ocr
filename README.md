@@ -197,6 +197,10 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
 
+* 
+```
+https://github.com/cisocrgroup
+```
 
 ## OCR Databases
 
@@ -207,6 +211,5 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 * [pics for testing 测试用图片 ]() 链接: http://pan.baidu.com/s/1jGNIjPG 密码: 3izf
 
              
-
 
 
