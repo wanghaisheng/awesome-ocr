@@ -151,6 +151,8 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 * [博文4 Finding blocks of text in an image using Python, OpenCV and numpy](http://www.danvk.org/2015/01/07/finding-blocks-of-text-in-an-image-using-python-opencv-and-numpy.html)                
 
 * [Applying OCR Technology for Receipt Recognition]( http://rnd.azoft.com/applying-ocr-technology-receipt-recognition/ )         
+
+* [Writing a Fuzzy Receipt Parser in Python](http://tech.trivago.com/2015/10/06/python_receipt_parser/)
 * [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)      
 * [车牌识别中的不分割字符的端到端(End-to-End)识别](http://m.blog.csdn.net/article/details?id=52174198)         
 * [端到端的OCR：基于CNN的实现](http://blog.xlvector.net/2016-05/mxnet-ocr-cnn/)
@@ -158,6 +160,7 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 >特征描述的完整过程 http://dataunion.org/wp-content/uploads/2015/05/640.webp_2.jpg
 
 * [验证码识别](https://github.com/100steps/Blogs/issues/43)     
+
 
 ## Presentations
 
