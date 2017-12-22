@@ -108,7 +108,7 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 
 * [ Word Spotting and Recognition with Embedded Attributes http://www.cvc.uab.es/~almazan/index/projects/words-att/index.html ](https://github.com/almazan/watts)          
 
-* ［ Part of eMOP: Franken+ tool for creating font training for Tesseract OCR engine from page images. ］(https://github.com/Early-Modern-OCR/FrankenPlus)     
+* [Part of eMOP: Franken+ tool for creating font training for Tesseract OCR engine from page images.](https://github.com/Early-Modern-OCR/FrankenPlus)      
 
 * [NOCR NOCR is an open source C++ software package for text recognition in natural scenes, based on OpenCV. The package consists of a library, console program and GUI program for text recognition.](https://github.com/honzatran/nocr)      
 
