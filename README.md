@@ -13,6 +13,19 @@
 百度自家的 ：基本可以放弃
 化验单识别：也只能提取化验单上三个字段的一个
 ```
+
+* [阿里云市场](https://market.aliyun.com/products/#ymk=%7B%22keywords%22:%22ocr%22,%22pageSize%22:10,%22saleMode%22:0,%22pageIndex%22:1,%22categoryId%22:%22%22%7D)
+```
+第三方和阿里自己提供的 API 集中在身份证、银行卡、驾驶证、护照、电商商品评论文本、车牌、名片、贴吧文本、视频中的文本，多输出字符及相应坐标，卡片类可输出成结构化字段，价格在0.01左右
+另外有三家提供了简历的解析，输出结果多为结构化字段，支持文档和图片格式 价格在0.1-0.3次不等
+```
+
+
+* [腾讯云](https://cloud.tencent.com/document/product/641/12399)
+```
+目前无第三方入驻，仅有腾讯自有的api 涵盖车牌、名片、身份证、驾驶证、银行卡、营业执照、通用印刷体，价格最高可达0.2左右。
+```
+
 * [ Codes And Documents For OcrKing Api ](https://github.com/AvensLab/OcrKing)
 ```
 OcrKing 从哪来?
@@ -115,7 +128,26 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 
 * [Text Recognition in Natural Images in Python](https://github.com/FraPochetti/ImageTextRecognition)
 
+* [ 运用tensorflow实现自然场景文字检测,keras/pytorch实现crnn+ctc实现不定长中文OCR识别](https://github.com/chineseocr/chinese-ocr)
 
+* [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://github.com/vicariousinc/science_rcn)
+
+* [STN-OCR: A single Neural Network for Text Detection and Text Recognition](https://github.com/Bartzi/stn-ocr)    
+
+* [ Digit Segmentation and Recognition using OpenCV and MLP test ](https://github.com/kyper999/OCR)
+
+* [ctpn based on tensorflow](https://github.com/eragonruan/text-detection-ctpn)
+
+* [ctpn based on caffe](https://github.com/tianzhi0549/CTPN)
+
+* [A Python/OpenCV-based scene detection program, using threshold/content analysis on a given video. http://pyscenedetect.readthedocs.org](https://github.com/Breakthrough/PySceneDetect)    
+
+* [Implementation of the seglink alogrithm in paper Detecting Oriented Text in Natural Images by Linking Segments](https://github.com/dengdan/seglink)
+>检测单词，而不是检测出一个文本行
+
+* [ Arbitrary-Oriented Scene Text Detection via Rotation Proposals](https://github.com/mjq11302010044/RRPN)
+
+* [通过旋转候选框实现任意方向的场景文本检测  Arbitrary-Oriented Scene Text Detection via Rotation Proposals ](http://www.jianshu.com/p/379dede5979c)
 
 
 
@@ -140,6 +172,27 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 > Clustering is central to many data-driven application domains and has been studied extensively in terms of distance functions and grouping algorithms.  Relatively little work has focused on learning  representations  for  clustering.   In  this paper,  we  propose  Deep  Embedded  Clustering (DEC), a method that simultaneously learns feature representations and cluster assignments using  deep  neural  networks.   DEC  learns  a  mapping from the data space to a lower-dimensional feature space in which it iteratively optimizes a
 clustering  objective.   Our  experimental  evaluations on image and text corpora show significant improvement over state-of-the-art methods
 
+* [SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](https://github.com/Bartzi/see)
+
+* [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](http://science.sciencemag.org/content/early/2017/10/26/science.aag2612.full)
+
+
+* [EXTENDING THE PAGE SEGMENTATION ALGORITHMS OF THE OCROPUS DOCUMENTATION LAYOUT ANALYSIS SYSTEM](http://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1122&context=td)
+
+
+* [ Text Recognition in Scene Image and Video Frame using Color Channel Selection](https://arxiv.org/abs/1707.06810)
+>In recent years, recognition of text from natural scene image and video frame has got increased attention among the researchers due to its various complexities and challenges. Because of low resolution, blurring effect, complex background, different fonts, color and variant alignment of text within images and video frames, etc., text recognition in such scenario is difficult. Most of the current approaches usually apply a binarization algorithm to convert them into binary images and next OCR is applied to get the recognition result. In this paper, we present a novel approach based on color channel selection for text recognition from scene images and video frames. In the approach, at first, a color channel is automatically selected and then selected color channel is considered for text recognition. Our text recognition framework is based on Hidden Markov Model (HMM) which uses Pyramidal Histogram of Oriented Gradient features extracted from selected color channel. From each sliding window of a color channel our color-channel selection approach analyzes the image properties from the sliding window and then a multi-label Support Vector Machine (SVM) classifier is applied to select the color channel that will provide the best recognition results in the sliding window. This color channel selection for each sliding window has been found to be more fruitful than considering a single color channel for the whole word image. Five different features have been analyzed for multi-label SVM based color channel selection where wavelet transform based feature outperforms others. Our framework has been tested on different publicly available scene/video text image datasets. For Devanagari script, we collected our own data dataset. The performances obtained from experimental results are encouraging and show the advantage of the proposed method. 
+
+* [Scene Text Detection via Holistic, Multi-Channel Prediction](https://arxiv.org/pdf/1606.09002.pdf)
+>Recently, scene text detection has become an active research topic in computer vision and document analysis, because of its great importance and significant challenge. However, vast majority of the existing methods detect text within local regions, typically through extracting character, word or line level candidates followed by candidate aggregation and false positive elimination, which potentially exclude the effect of wide-scope and long-range contextual cues in the scene. To take full advantage of the rich information available in the whole natural image, we propose to localize text in a holistic manner, by casting scene text detection as a semantic segmentation problem. The proposed algorithm directly runs on full images and produces global, pixel-wise prediction maps, in which detections are subsequently formed. To better make use of the properties of text, three types of information regarding text region, individual characters and their relationship are estimated, with a single Fully Convolutional Network (FCN) model. With such predictions of text properties, the proposed algorithm can simultaneously handle horizontal, multi-oriented and curved text in real-world natural images. The experiments on standard benchmarks, including ICDAR 2013, ICDAR 2015 and MSRA-TD500, demonstrate that the proposed algorithm substantially outperforms previous state-of-the-art approaches. Moreover, we report the first baseline result on the recently-released, large-scale dataset COCO-Text.
+
+* [Joint Line Segmentation and Transcription for End-to-End Handwritten Paragraph Recognition]()
+
+* [Scene Text Recognition with Sliding Convolutional Character Models]()
+
+* [Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Network]()
+
+
 ## Blogs
 
 * [Tesseract-OCR引擎入门](http://blog.csdn.net/xiaochunyong/article/details/7193744)             
@@ -161,6 +214,9 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 
 * [验证码识别](https://github.com/100steps/Blogs/issues/43)     
 
+* [Bank check OCR with OpenCV and Python (Part I)](https://www.pyimagesearch.com/2017/07/24/bank-check-ocr-with-opencv-and-python-part-i/)
+
+* [Common Sense, Cortex, and CAPTCHA](https://www.vicarious.com/2017/10/26/common-sense-cortex-and-captcha/)
 
 ## Presentations
 
