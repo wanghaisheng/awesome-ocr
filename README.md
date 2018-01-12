@@ -269,6 +269,12 @@ https://github.com/cisocrgroup
 
 * [pics for testing 测试用图片 ]() 链接: http://pan.baidu.com/s/1jGNIjPG 密码: 3izf
 
+
+## Discussion and Feedback
+
+欢迎扫码加入 参与讨论分享 过期请添加个人微信 edwin_whs
+![](https://user-images.githubusercontent.com/2363295/34026309-0d1f4e8e-e190-11e7-8415-c73405cb25e7.jpeg){:height="50%" width="50%"}
+
              
 
 
