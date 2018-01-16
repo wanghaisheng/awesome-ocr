@@ -261,6 +261,11 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 https://github.com/cisocrgroup
 ```
 
+* [OCR.space is a service of a9t9 software GmbH. The goal of OCR.space is to bring fresh ideas, methods and products to the OCR community.](https://ocr.space/)               
+```
+目前看到最棒的免费的API  当然也提供商业版
+```
+
 ## OCR Databases
 
 
