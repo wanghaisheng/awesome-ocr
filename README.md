@@ -149,6 +149,18 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 
 * [通过旋转候选框实现任意方向的场景文本检测  Arbitrary-Oriented Scene Text Detection via Rotation Proposals ](http://www.jianshu.com/p/379dede5979c)
 
+* [Seven Segment Optical Character Recognition](https://github.com/auerswal/ssocr)
+![](https://www.unix-ag.uni-kl.de/~auerswal/ssocr/six_digits.png)
+
+* [SVHN yolo-v2 digit detector](https://github.com/penny4860/Yolo-digit-detector)     
+
+* [Reads Scene Text in Tilted orientation.](https://github.com/jumzzz/Tilt-Scene-Text-OCR)     
+
+* [ocr, cnn+lstm (CTPN/CRNN) for image text detection](https://github.com/Li-Ming-Fan/OCR-CTPN-CRNN)     
+
+* [A stand alone character recognition micro-service with a RESTful API](https://github.com/gunthercox/ocr-service)    
+
+* [Single Shot Text Detector with Regional Attention](https://github.com/BestSonny/SSTD)    
 
 
 ## Papers
