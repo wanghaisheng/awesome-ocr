@@ -162,6 +162,11 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 
 * [Single Shot Text Detector with Regional Attention](https://github.com/BestSonny/SSTD)    
 
+* [gocr is a go based OCR module](https://github.com/eaciit/gocr)      
+
+* [GOCR is an optical character recognition program, released under the](https://github.com/SureChEMBL/gocr)
+
+
 
 ## Papers
 
