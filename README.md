@@ -166,6 +166,7 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 
 * [GOCR is an optical character recognition program, released under the](https://github.com/SureChEMBL/gocr)
 
+* [UFOCR (User-Friendly OCR). It is YAGF fork: https://github.com/andrei-b/YAGF  Supported input format: PDF, TIFF, JPEG, PNG, BMP, PBM, PGM, PPM, XBM, XPM.](https://github.com/ZaMaZaN4iK/ufocr)
 
 
 ## Papers
