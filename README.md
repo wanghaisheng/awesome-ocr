@@ -42,6 +42,11 @@ OcrKing 是一个免费的快速易用的在线云OCR平台，可以将PDF及图
 * [Tesseract-OCR](https://github.com/tesseract-ocr/tesseract)           
 
 * [Tesseract.js is a pure Javascript port of the popular Tesseract OCR engine. ](http://tesseract.projectnaptha.com/)
+
+* [tesseract is an R package providing bindings to Tesseract.](https://github.com/ropensci/tesseract)
+
+* [List of Tesseract add-ons including wrappers in different languages.](https://github.com/tesseract-ocr/tesseract/wiki/AddOns)
+
 * [ Ocular is a state-of-the-art historical OCR system. ](https://github.com/tberg12/ocular/) 
 
 * [sfhistory  Making a map of historical SF photos -博文4所带库 ](https://github.com/danvk/sfhistory)                              
