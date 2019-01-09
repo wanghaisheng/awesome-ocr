@@ -133,7 +133,7 @@ Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （libra
 
 * [Text Recognition in Natural Images in Python](https://github.com/FraPochetti/ImageTextRecognition)
 
-* [ 运用tensorflow实现自然场景文字检测,keras/pytorch实现crnn+ctc实现不定长中文OCR识别](https://github.com/chineseocr/chinese-ocr)
+* [ 运用tensorflow实现自然场景文字检测,keras/pytorch实现crnn+ctc实现不定长中文OCR识别](https://github.com/chineseocr/chineseocr)
 
 * [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://github.com/vicariousinc/science_rcn)
 
