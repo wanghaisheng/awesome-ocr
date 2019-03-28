@@ -1,8 +1,10 @@
+# **Call for contributor(paper summary,dataset generation,algorithm implementation and any other useful resources)**
+
+
 # awesome-ocr
 
  A curated list of promising OCR resources           
  
-**Call for contributor(paper summary,dataset generation,algorithm implementation and any other useful resources)**
 
 
 ## Librarys
