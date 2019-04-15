@@ -1,6 +1,12 @@
 # 训练数据的准备（trainning data  preparing）       
 
 
+tools
+
+*  https://github.com/xiaomaxiao/text_renderer
+
+* https://github.com/YoungMiao/synthdata-zh
+
 
 ## 印刷文本(printed document)        
 
