@@ -7,6 +7,10 @@ tools
 
 * https://github.com/YoungMiao/synthdata-zh
 
+* https://github.com/szad670401/OCR_CharGen
+
+* https://github.com/Heisenberg0391/TextImageGenerator
+
 
 ## 印刷文本(printed document)        
 
