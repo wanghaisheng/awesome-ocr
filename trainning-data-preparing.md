@@ -11,6 +11,8 @@ tools
 
 * https://github.com/Heisenberg0391/TextImageGenerator
 
+* https://github.com/JarveeLee/SynthText_Chinese_version
+
 
 ## 印刷文本(printed document)        
 
