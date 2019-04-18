@@ -13,6 +13,8 @@ tools
 
 * https://github.com/JarveeLee/SynthText_Chinese_version
 
+* https://github.com/Belval/TextRecognitionDataGenerator
+
 
 ## 印刷文本(printed document)        
 
@@ -55,5 +57,4 @@ tools
 
 
 ### 胶片中的文字
-
 
