@@ -9,6 +9,8 @@
 
 ## Librarys
 
+* [Free Offline OCR 离线的文本识别SDK https://github.com/myhub/tr ](https://github.com/myhub/tr)
+
 * [百度api store](http://apistore.baidu.com/astore/servicesearch?word=ocr&searchType=null)
 ```
 有2个api
