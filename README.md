@@ -274,6 +274,11 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 5，包括梯形校正，歪斜校正之类的许多图片校正方式，即使扫描得歪了，或者因为书本太厚而导致靠近书脊的部分文字扭曲，都可以校正回来。
 ```
 
+* [Cloudmersive OCR](https://cloudmersive.com/ocr-api)
+```
+Convert scanned images of documents into rich text with advanced Deep Learning OCR APIs. Free forever plans available.
+```
+
 * IRIS               
 ```
  真正能把中文OCR做得比较专业的，一共也没几家，国内2家，国外2家。国内是文通和汉王，国外是ABBYY和IRIS（台湾原来有2家丹青和蒙恬，这两年没什么动静了）。像大家提到的紫光OCR、CAJViewer、MS Office、清华OCR、包括慧视小灵鼠，这些都是文通的产品或者使用文通的识别引擎，尚书则是汉王的产品，和中晶扫描仪捆绑销售的。这两家的中文识别率都是非常不错的。而国外的2家，主要特点是西方语言的识别率很好，而且支持多种西欧语言，产品化程度也很高，不过中文方面速度和识别率还是有差距的，当然这两年人家也是在不断进步。Google的开源项目，至少在中文方面，和这些家相比，各项性能指标水平差距还蛮大的呢。 
