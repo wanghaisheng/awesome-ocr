@@ -305,8 +305,7 @@ https://github.com/cisocrgroup
 
 ## OTHERS
 
-* [pics for testing 测试用图片 ]() 链接: http://pan.baidu.com/s/1jGNIjPG 密码: 3izf
-
+* [pics for testing 测试用图片 ]() 链接: https://pan.baidu.com/s/1YkWLGrr8T7sldE4nluVMdw 提取码: zpyw 
 
 ## Discussion and Feedback
 
