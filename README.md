@@ -52,6 +52,16 @@ OcrKing 是一个免费的快速易用的在线云OCR平台，可以将PDF及图
 
 * [List of Tesseract add-ons including wrappers in different languages.](https://github.com/tesseract-ocr/tesseract/wiki/AddOns)
 
+* [PaddleOCR: PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+```
+超轻量级模型,大小低至9.4M.支持80+语言模型，且内置训练模块、半监督标注工具、板面分析模型，中文方面识别占优。
+```
+
+* [AgentOCR: AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR)
+```
+继承PaddleOCR优势，在此基础上提供了ONNX后端，并额外支持了DirectX加速支持，在Windows部署有显著的兼容性和性能优势。
+```
+
 * [ Ocular is a state-of-the-art historical OCR system. ](https://github.com/tberg12/ocular/) 
 
 * [sfhistory  Making a map of historical SF photos -博文4所带库 ](https://github.com/danvk/sfhistory)                              
