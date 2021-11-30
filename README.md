@@ -323,4 +323,8 @@ https://github.com/cisocrgroup
 
              
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/wanghaisheng/awesome-ocr.svg)](https://starchart.cc/wanghaisheng/awesome-ocr)
+
 
