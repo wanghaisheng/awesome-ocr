@@ -6,10 +6,13 @@
  A curated list of promising OCR resources           
  
  
-# daily paper around ocr track website
+# daily paper around ocr track 
 
-http://wanghaisheng.github.io/ocr-arxiv-daily/
-
+[website](http://wanghaisheng.github.io/ocr-arxiv-daily/)
+[source code](https://github.com/wanghaisheng/ocr-arxiv-daily)
+you can modify or add new more keywords for tracking and sharing
+just edit this file https://github.com/wanghaisheng/ocr-arxiv-daily/blob/main/database/topic.yml
+make a request
 
 ## Librarys
 
