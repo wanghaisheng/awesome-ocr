@@ -1,4 +1,4 @@
-# **Call for contributor(paper summary,dataset generation,algorithm implementation and any other useful resources)**
+# **make a update of daily paper tracking tool **
 
 
 # awesome-ocr
