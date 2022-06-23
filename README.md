@@ -5,6 +5,10 @@
 
  A curated list of promising OCR resources           
  
+ 
+# daily paper around ocr track website
+
+http://wanghaisheng.github.io/ocr-arxiv-daily/
 
 
 ## Librarys
