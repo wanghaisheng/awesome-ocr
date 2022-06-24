@@ -6,7 +6,7 @@
  A curated list of promising OCR resources           
  
  
-# daily paper around ocr track 
+# daily ocr paper track 
 
 [website](http://wanghaisheng.github.io/ocr-arxiv-daily/)
 [source code](https://github.com/wanghaisheng/ocr-arxiv-daily)
@@ -19,6 +19,10 @@ make a request
 Fully-automated scripts for collecting AI-related papers. Support fuzzy and exact search for paper titles.
 
 https://github.com/wanghaisheng/ocr-paper-collector
+
+# tweets contained ocr tracking
+
+https://github.com/wanghaisheng/ocr-tweets-monitoring
 
 
 ## Librarys
