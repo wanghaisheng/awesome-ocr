@@ -14,6 +14,13 @@ you can modify or add new more keywords for tracking and sharing
 just edit this file https://github.com/wanghaisheng/ocr-arxiv-daily/blob/main/database/topic.yml
 make a request
 
+# AI-Paper-Collector
+
+Fully-automated scripts for collecting AI-related papers. Support fuzzy and exact search for paper titles.
+
+https://github.com/wanghaisheng/ocr-paper-collector
+
+
 ## Librarys
 
 * [Free Offline OCR 离线的文本识别SDK https://github.com/myhub/tr ](https://github.com/myhub/tr)
