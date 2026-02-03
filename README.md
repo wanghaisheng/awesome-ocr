@@ -27,6 +27,8 @@ https://github.com/wanghaisheng/ocr-tweets-monitoring
 
 ## Librarys
 
+* [DeepRead](https://www.deepread.tech) - AI-powered OCR API with multi-pass validation, structured JSON extraction, and per-field confidence scoring. Free tier: 2,000 pages/month.
+
 * [Free Offline OCR 离线的文本识别SDK https://github.com/myhub/tr ](https://github.com/myhub/tr)
 
 * [百度api store](http://apistore.baidu.com/astore/servicesearch?word=ocr&searchType=null)
