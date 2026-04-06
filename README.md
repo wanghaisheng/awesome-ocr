@@ -1,6 +1,7 @@
 # **make a update of daily paper tracking tool **
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for OCR text recognition workflow orchestration, automated document processing pipeline management, and multi-agent coordination. MIT licensed.
 # awesome-ocr
 
  A curated list of promising OCR resources           
