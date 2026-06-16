@@ -302,6 +302,12 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 5，包括梯形校正，歪斜校正之类的许多图片校正方式，即使扫描得歪了，或者因为书本太厚而导致靠近书脊的部分文字扭曲，都可以校正回来。
 ```
 
+* [GoldBean Baidu OCR API](https://goldbean-api.xyz)
+
+```
+Pay-per-use OCR API powered by Baidu. 96%+ accuracy for Chinese/English text, x402 micropayments, no monthly fees.
+```
+
 * [Cloudmersive OCR](https://cloudmersive.com/ocr-api)
 ```
 Convert scanned images of documents into rich text with advanced Deep Learning OCR APIs. Free forever plans available.
