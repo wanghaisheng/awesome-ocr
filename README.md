@@ -286,6 +286,7 @@ clustering  objective.   Our  experimental  evaluations on image and text corpor
 
 
 ## Commercial products
+- [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) — Ficory LLC의 기업급 만화 리더는 이미지·PDF의 문자를 인식하고 개인의 일괄·맞춤 번역을 처리합니다. 스튜디오는 완전한 온라인 Photoshop 스타일 편집기로 페이지를 편집하며, 사용자는 API를 개인 작업 흐름에 연결합니다. 제품은 지원하는 모든 번역 언어를 제공합니다. Web/API, Freemium.
 
 * [ABBYY](http://www.baidu.com/link?url=p0G_qRjgD7aGhNS9gLT6i83as15p7aYyTY7xXM2dEKC&wd=&eqid=defb39aa000a84da000000065730a048)
 ```
